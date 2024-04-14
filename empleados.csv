@@ -1,0 +1,101 @@
+id,nombre,puesto_id,habilidades
+1,Julian Perez,5,"['Ventas', 'Entrevista']"
+2,Pablo Restrepo,4,['Entrevista']
+3,Vivian Perez,2,"['Ventas', 'Entrevista', 'Python', 'Redes Sociales']"
+4,Maria Hincapie,4,"['Ventas', 'Contabilidad', 'Python', 'Entrevista']"
+5,Mario Rueda,3,"['Redes Sociales', 'Python', 'Ventas']"
+6,Fabian Ramirez,1,"['Entrevista', 'Python']"
+7,Mario Rueda,1,"['Redes Sociales', 'Python', 'Ventas', 'Contabilidad', 'Entrevista']"
+8,Vivian Perez,5,"['Contabilidad', 'Python', 'Entrevista', 'Redes Sociales']"
+9,Maria Hincapie,1,"['Redes Sociales', 'Ventas', 'Contabilidad']"
+10,Patricia Benitez,4,['Ventas']
+11,Vivian Perez,5,"['Python', 'Entrevista', 'Contabilidad', 'Redes Sociales']"
+12,Pablo Restrepo,5,['Ventas']
+13,Maria Hincapie,2,['Contabilidad']
+14,Mario Rueda,3,"['Ventas', 'Entrevista', 'Contabilidad', 'Redes Sociales']"
+15,Patricia Benitez,3,"['Entrevista', 'Ventas', 'Redes Sociales', 'Python']"
+16,Patricia Benitez,3,"['Redes Sociales', 'Python', 'Contabilidad', 'Entrevista', 'Ventas']"
+17,Patricia Benitez,1,"['Redes Sociales', 'Entrevista', 'Ventas', 'Contabilidad', 'Python']"
+18,Patricia Benitez,1,['Ventas']
+19,Mario Rueda,5,['Ventas']
+20,Pablo Restrepo,1,"['Ventas', 'Redes Sociales', 'Python', 'Contabilidad', 'Entrevista']"
+21,Maria Hincapie,3,"['Redes Sociales', 'Contabilidad', 'Python', 'Entrevista', 'Ventas']"
+22,Vivian Perez,3,"['Entrevista', 'Contabilidad', 'Ventas']"
+23,Pablo Restrepo,3,"['Contabilidad', 'Python', 'Redes Sociales', 'Ventas']"
+24,Patricia Benitez,5,['Entrevista']
+25,Vivian Perez,2,"['Python', 'Redes Sociales']"
+26,Juana Rodriguez,4,"['Python', 'Entrevista']"
+27,Pablo Restrepo,3,"['Contabilidad', 'Ventas']"
+28,Juana Rodriguez,2,"['Entrevista', 'Python', 'Ventas', 'Redes Sociales', 'Contabilidad']"
+29,Juana Rodriguez,3,['Ventas']
+30,Maria Hincapie,1,"['Entrevista', 'Ventas', 'Contabilidad']"
+31,Mario Rueda,5,"['Entrevista', 'Redes Sociales', 'Contabilidad', 'Python']"
+32,Maria Hincapie,2,['Python']
+33,Patricia Benitez,2,"['Contabilidad', 'Python', 'Ventas', 'Redes Sociales', 'Entrevista']"
+34,Fabian Ramirez,4,"['Entrevista', 'Contabilidad', 'Redes Sociales']"
+35,Pablo Restrepo,2,"['Python', 'Ventas', 'Redes Sociales', 'Entrevista']"
+36,Mario Rueda,3,"['Entrevista', 'Ventas', 'Redes Sociales', 'Contabilidad']"
+37,Pablo Restrepo,1,"['Python', 'Ventas', 'Contabilidad', 'Redes Sociales', 'Entrevista']"
+38,Julian Perez,1,"['Python', 'Contabilidad', 'Ventas']"
+39,Patricia Benitez,2,"['Entrevista', 'Contabilidad', 'Ventas']"
+40,Fabian Ramirez,2,"['Redes Sociales', 'Contabilidad', 'Ventas', 'Entrevista']"
+41,Juana Rodriguez,3,"['Contabilidad', 'Entrevista', 'Ventas']"
+42,Juana Rodriguez,4,"['Python', 'Contabilidad']"
+43,Maria Hincapie,3,"['Contabilidad', 'Python']"
+44,Maria Hincapie,4,['Contabilidad']
+45,Vivian Perez,2,"['Contabilidad', 'Redes Sociales', 'Entrevista', 'Python', 'Ventas']"
+46,Maria Hincapie,3,"['Python', 'Contabilidad', 'Redes Sociales', 'Ventas', 'Entrevista']"
+47,Patricia Benitez,2,['Entrevista']
+48,Mario Rueda,3,"['Ventas', 'Python', 'Contabilidad', 'Redes Sociales', 'Entrevista']"
+49,Maria Hincapie,5,['Python']
+50,Mario Rueda,2,"['Python', 'Contabilidad', 'Entrevista', 'Ventas', 'Redes Sociales']"
+51,Fabian Ramirez,3,"['Redes Sociales', 'Contabilidad', 'Entrevista', 'Ventas', 'Python']"
+52,Julian Perez,1,"['Contabilidad', 'Entrevista', 'Python']"
+53,Pablo Restrepo,5,"['Contabilidad', 'Entrevista', 'Ventas', 'Python']"
+54,Pablo Restrepo,1,['Entrevista']
+55,Patricia Benitez,2,['Entrevista']
+56,Fabian Ramirez,4,"['Python', 'Contabilidad', 'Redes Sociales', 'Entrevista']"
+57,Maria Hincapie,5,"['Redes Sociales', 'Python', 'Ventas', 'Contabilidad', 'Entrevista']"
+58,Mario Rueda,3,"['Redes Sociales', 'Contabilidad', 'Python']"
+59,Julian Perez,3,"['Python', 'Ventas', 'Entrevista']"
+60,Julian Perez,4,"['Contabilidad', 'Redes Sociales', 'Entrevista']"
+61,Fabian Ramirez,1,"['Entrevista', 'Ventas', 'Python']"
+62,Patricia Benitez,4,"['Entrevista', 'Redes Sociales', 'Python', 'Contabilidad']"
+63,Maria Hincapie,3,['Redes Sociales']
+64,Mario Rueda,3,"['Entrevista', 'Contabilidad', 'Ventas']"
+65,Pablo Restrepo,1,['Contabilidad']
+66,Maria Hincapie,2,"['Contabilidad', 'Python']"
+67,Fabian Ramirez,3,"['Redes Sociales', 'Ventas', 'Contabilidad', 'Entrevista', 'Python']"
+68,Vivian Perez,5,"['Redes Sociales', 'Python', 'Entrevista', 'Ventas']"
+69,Mario Rueda,3,"['Python', 'Ventas', 'Redes Sociales', 'Contabilidad']"
+70,Mario Rueda,5,"['Ventas', 'Contabilidad']"
+71,Patricia Benitez,2,['Redes Sociales']
+72,Mario Rueda,2,"['Entrevista', 'Python']"
+73,Patricia Benitez,5,"['Python', 'Entrevista', 'Ventas', 'Redes Sociales', 'Contabilidad']"
+74,Patricia Benitez,5,"['Ventas', 'Entrevista', 'Contabilidad', 'Python', 'Redes Sociales']"
+75,Mario Rueda,1,"['Ventas', 'Entrevista', 'Redes Sociales', 'Contabilidad', 'Python']"
+76,Mario Rueda,4,"['Contabilidad', 'Python', 'Redes Sociales', 'Entrevista']"
+77,Julian Perez,2,"['Contabilidad', 'Entrevista', 'Redes Sociales']"
+78,Patricia Benitez,5,"['Contabilidad', 'Redes Sociales', 'Ventas', 'Entrevista', 'Python']"
+79,Patricia Benitez,3,"['Ventas', 'Entrevista', 'Redes Sociales', 'Python', 'Contabilidad']"
+80,Juana Rodriguez,5,['Python']
+81,Pablo Restrepo,4,"['Ventas', 'Python', 'Redes Sociales']"
+82,Mario Rueda,1,"['Ventas', 'Python']"
+83,Fabian Ramirez,2,['Contabilidad']
+84,Vivian Perez,1,"['Entrevista', 'Redes Sociales']"
+85,Vivian Perez,2,"['Ventas', 'Entrevista', 'Contabilidad', 'Python', 'Redes Sociales']"
+86,Mario Rueda,4,"['Redes Sociales', 'Contabilidad']"
+87,Maria Hincapie,2,"['Entrevista', 'Ventas', 'Redes Sociales']"
+88,Julian Perez,2,"['Python', 'Contabilidad', 'Entrevista']"
+89,Vivian Perez,4,['Ventas']
+90,Maria Hincapie,3,['Redes Sociales']
+91,Pablo Restrepo,1,"['Contabilidad', 'Entrevista']"
+92,Maria Hincapie,1,"['Python', 'Entrevista', 'Redes Sociales', 'Contabilidad']"
+93,Vivian Perez,5,"['Redes Sociales', 'Ventas', 'Contabilidad', 'Python', 'Entrevista']"
+94,Patricia Benitez,2,"['Redes Sociales', 'Python', 'Entrevista', 'Contabilidad', 'Ventas']"
+95,Juana Rodriguez,5,"['Contabilidad', 'Redes Sociales', 'Entrevista', 'Python']"
+96,Pablo Restrepo,4,"['Ventas', 'Redes Sociales', 'Python', 'Entrevista']"
+97,Pablo Restrepo,3,['Ventas']
+98,Maria Hincapie,4,"['Ventas', 'Python']"
+99,Patricia Benitez,5,"['Redes Sociales', 'Entrevista', 'Python', 'Ventas']"
+100,Julian Perez,1,"['Entrevista', 'Contabilidad', 'Ventas', 'Python']"
